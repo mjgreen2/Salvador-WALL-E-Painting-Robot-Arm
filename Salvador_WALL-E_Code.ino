@@ -1,4 +1,4 @@
-//Michael Green
+//Team: Shriya Bhatnagar, Austin Dodge, Michael Green
 //Code for Salvador WALL-E Painting Robot
 
 #include <math.h>
